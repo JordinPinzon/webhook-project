@@ -16,8 +16,8 @@ Before running the application, make sure you have the following:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/your_repository.git
-    cd your_repository
+    git clone https://github.com/JordinPinzon/webhook-project.git
+    cd webhook-project
     ```
 
 2. Create and activate a virtual environment:
